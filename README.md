@@ -1,2 +1,2 @@
 # webtest
-Una pagina para pruebas
+Una página para pruebas
